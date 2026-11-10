@@ -1,0 +1,1858 @@
+[
+  {
+    "page": 3,
+    "name": "Mextec",
+    "category": "Luvas de Boxe",
+    "price": 114.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Luva de boxe e muay thai com design agressivo e alta durabilidade.",
+    "options": [
+      {
+        "art": "ST-1001",
+        "name": "Preto e Vermelho",
+        "colors": [
+          "#111",
+          "#d71920"
+        ],
+        "coords": [
+          10,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1002",
+        "name": "Branco e Vermelho",
+        "colors": [
+          "#fff",
+          "#d71920"
+        ],
+        "coords": [
+          52,
+          10,
+          90,
+          40
+        ]
+      },
+      {
+        "art": "ST-1003",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          10,
+          60,
+          48,
+          90
+        ]
+      },
+      {
+        "art": "ST-1004",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          52,
+          60,
+          90,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "name": "Top-10",
+    "category": "Luvas de Boxe",
+    "price": 99.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Modelo listrado clássico, sucesso de vendas para academias e lojas.",
+    "options": [
+      {
+        "art": "ST-1005",
+        "name": "Preto e Branco",
+        "colors": [
+          "#111",
+          "#fff"
+        ],
+        "coords": [
+          10,
+          10,
+          50,
+          40
+        ]
+      },
+      {
+        "art": "ST-1006",
+        "name": "Azul e Branco",
+        "colors": [
+          "#1d3fbf",
+          "#fff"
+        ],
+        "coords": [
+          52,
+          35,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1007",
+        "name": "Vermelho e Branco",
+        "colors": [
+          "#d71920",
+          "#fff"
+        ],
+        "coords": [
+          10,
+          60,
+          50,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "name": "Top-10 Cores",
+    "category": "Luvas de Boxe",
+    "price": 99.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Variações vibrantes da linha Top-10 com alto destaque de vitrine.",
+    "options": [
+      {
+        "art": "ST-1008",
+        "name": "Amarelo e Branco",
+        "colors": [
+          "#f2c200",
+          "#fff"
+        ],
+        "coords": [
+          10,
+          10,
+          55,
+          45
+        ]
+      },
+      {
+        "art": "ST-1009",
+        "name": "Rosa e Branco",
+        "colors": [
+          "#f4a3c0",
+          "#fff"
+        ],
+        "coords": [
+          50,
+          50,
+          95,
+          88
+        ]
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "name": "Gold-Pro",
+    "category": "Luvas de Boxe",
+    "price": 109.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Linha com acabamento pontilhado e detalhes metálicos contrastantes.",
+    "options": [
+      {
+        "art": "ST-1014",
+        "name": "Rosa e Preto",
+        "colors": [
+          "#f4a3c0",
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1015",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          52,
+          10,
+          95,
+          40
+        ]
+      },
+      {
+        "art": "ST-1016",
+        "name": "Dourado e Preto",
+        "colors": [
+          "#c9a24a",
+          "#111"
+        ],
+        "coords": [
+          6,
+          60,
+          48,
+          90
+        ]
+      },
+      {
+        "art": "ST-1017",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          52,
+          60,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "name": "Fantasia",
+    "category": "Luvas de Boxe",
+    "price": 94.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Acabamento fosco com logotipo estilizado e cores modernas.",
+    "options": [
+      {
+        "art": "ST-1018",
+        "name": "Preta Total",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          50,
+          40
+        ]
+      },
+      {
+        "art": "ST-1019",
+        "name": "Preta e Creme",
+        "colors": [
+          "#111",
+          "#efe3c8"
+        ],
+        "coords": [
+          55,
+          35,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1020",
+        "name": "Rosa e Preta",
+        "colors": [
+          "#f4a3c0",
+          "#111"
+        ],
+        "coords": [
+          6,
+          60,
+          50,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "name": "Fantasia Cores",
+    "category": "Luvas de Boxe",
+    "price": 94.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Combinações com contrastes marcantes da linha Fantasia.",
+    "options": [
+      {
+        "art": "ST-1021",
+        "name": "Vermelha e Preta",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          55,
+          45
+        ]
+      },
+      {
+        "art": "ST-1022",
+        "name": "Amarela e Preta",
+        "colors": [
+          "#f2c200",
+          "#111"
+        ],
+        "coords": [
+          45,
+          55,
+          92,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "name": "Pro-10",
+    "category": "Luvas de Boxe",
+    "price": 109.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Acabamento nobre com faixas douradas metalizadas e logo South Team.",
+    "options": [
+      {
+        "art": "ST-1056",
+        "name": "Vermelho Dourado",
+        "colors": [
+          "#d71920",
+          "#c9a24a"
+        ],
+        "coords": [
+          6,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1057",
+        "name": "Verde Dourado",
+        "colors": [
+          "#5a7350",
+          "#c9a24a"
+        ],
+        "coords": [
+          52,
+          35,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1058",
+        "name": "Azul Dourado",
+        "colors": [
+          "#1d3fbf",
+          "#c9a24a"
+        ],
+        "coords": [
+          6,
+          60,
+          48,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "name": "Pro-10 Dark & Pink",
+    "category": "Luvas de Boxe",
+    "price": 109.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Edição Preto Dourado e Rosa Dourado da linha Pro-10.",
+    "options": [
+      {
+        "art": "ST-1059",
+        "name": "Preto Dourado",
+        "colors": [
+          "#111",
+          "#c9a24a"
+        ],
+        "coords": [
+          10,
+          10,
+          52,
+          45
+        ]
+      },
+      {
+        "art": "ST-1060",
+        "name": "Rosa Dourado",
+        "colors": [
+          "#f4a3c0",
+          "#c9a24a"
+        ],
+        "coords": [
+          48,
+          52,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "name": "ST-Classic",
+    "category": "Luvas de Boxe",
+    "price": 130.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Design clássico e minimalista, acabamento premium para sparrings rigorosos.",
+    "options": [
+      {
+        "art": "ST-1061",
+        "name": "Preta",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          50,
+          45
+        ]
+      },
+      {
+        "art": "ST-1062",
+        "name": "Branca",
+        "colors": [
+          "#f5f5f5"
+        ],
+        "coords": [
+          45,
+          52,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "name": "Kit Muay Thai",
+    "category": "Kit Muay Thai",
+    "sub": "Luva + Bucal + Bandagem 3m",
+    "price": 132.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Combo completo para novos alunos e atletas. Alto giro em academias.",
+    "options": [
+      {
+        "art": "ST-1051",
+        "name": "Kit Preto",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          50,
+          42
+        ]
+      },
+      {
+        "art": "ST-1052",
+        "name": "Kit Preto e Branco",
+        "colors": [
+          "#111",
+          "#fff"
+        ],
+        "coords": [
+          52,
+          35,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1053",
+        "name": "Kit Preto e Rosa",
+        "colors": [
+          "#111",
+          "#f4a3c0"
+        ],
+        "coords": [
+          6,
+          60,
+          50,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "name": "Kit Muay Thai Cores",
+    "category": "Kit Muay Thai",
+    "sub": "Luva + Bucal + Bandagem 3m",
+    "price": 132.0,
+    "sizes": [
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ],
+    "description": "Kits com variações vermelho e amarelo com bucal e bandagem inclusos.",
+    "options": [
+      {
+        "art": "ST-1054",
+        "name": "Kit Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          55,
+          45
+        ]
+      },
+      {
+        "art": "ST-1055",
+        "name": "Kit Amarelo e Preto",
+        "colors": [
+          "#f2c200",
+          "#111"
+        ],
+        "coords": [
+          45,
+          55,
+          92,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "name": "Luvas de MMA",
+    "category": "Luvas de MMA",
+    "price": 79.0,
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Luva de dedos abertos para grappling e transição para trocação.",
+    "options": [
+      {
+        "art": "ST-1901",
+        "name": "Preta Oficial",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "name": "MMA Grappling Pro",
+    "category": "Luvas de MMA",
+    "price": 84.0,
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "description": "Mais acolchoamento nos nós dos dedos para proteção reforçada em sparring.",
+    "options": [
+      {
+        "art": "ST-1902",
+        "name": "Preto e Dourado",
+        "colors": [
+          "#111",
+          "#c9a24a"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "name": "Bastão de Treino Boxe",
+    "category": "Bastão de Treino",
+    "price": 99.0,
+    "sizes": [
+      "Par"
+    ],
+    "description": "Bastões acolchoados para desenvolvimento de esquiva, reflexo e tempo de reação.",
+    "options": [
+      {
+        "art": "ST-1905",
+        "name": "Preto (Par)",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "name": "Saco de Pancadas",
+    "category": "Saco de Pancada",
+    "price": 250.0,
+    "sizes": [
+      "90cm",
+      "120cm",
+      "150cm"
+    ],
+    "prices": {
+      "90cm": 250.0,
+      "120cm": 280.0,
+      "150cm": 310.0
+    },
+    "description": "Lona ultra reforçada com corrente de 4 pontas inclusa. Disponível em 3 tamanhos.",
+    "options": [
+      {
+        "art": "ST-2201",
+        "name": "150 cm - R$ 310,00",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          5,
+          10,
+          35,
+          60
+        ]
+      },
+      {
+        "art": "ST-2202",
+        "name": "120 cm - R$ 280,00",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          38,
+          10,
+          65,
+          55
+        ]
+      },
+      {
+        "art": "ST-2203",
+        "name": "90 cm - R$ 250,00",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          68,
+          10,
+          95,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "name": "Kimono Jiu-Jitsu Adulto",
+    "category": "Kimono Jiu-Jitsu",
+    "price": 240.0,
+    "sizes": [
+      "A0",
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5"
+    ],
+    "description": "Tecido trançado de alta resistência com gola reforçada e calça com ripstop. Faixa inclusa.",
+    "options": [
+      {
+        "art": "ST-2001",
+        "name": "Azul Royal",
+        "colors": [
+          "#1d3fbf"
+        ],
+        "coords": [
+          5,
+          10,
+          35,
+          45
+        ]
+      },
+      {
+        "art": "ST-2002",
+        "name": "Preto",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          36,
+          10,
+          66,
+          45
+        ]
+      },
+      {
+        "art": "ST-2003",
+        "name": "Branco",
+        "colors": [
+          "#f5f5f5"
+        ],
+        "coords": [
+          68,
+          10,
+          95,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "name": "Kimono Jiu-Jitsu Infantil",
+    "category": "Kimono Jiu-Jitsu",
+    "price": 175.0,
+    "sizes": [
+      "M00",
+      "M0",
+      "M1",
+      "M2",
+      "M3",
+      "M4"
+    ],
+    "description": "Modelagem anatômica infantil com tecido leve e resistente. Acompanha faixa branca.",
+    "options": [
+      {
+        "art": "ST-2004",
+        "name": "Azul Infantil",
+        "colors": [
+          "#1d3fbf"
+        ],
+        "coords": [
+          10,
+          10,
+          50,
+          45
+        ]
+      },
+      {
+        "art": "ST-2005",
+        "name": "Preto Infantil",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          52,
+          10,
+          92,
+          45
+        ]
+      },
+      {
+        "art": "ST-2006",
+        "name": "Branco Infantil",
+        "colors": [
+          "#f5f5f5"
+        ],
+        "coords": [
+          10,
+          55,
+          50,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "name": "Protetor Bucal Moldável",
+    "category": "Bucal",
+    "price": 30.0,
+    "sizes": [
+      "Tamanho Único"
+    ],
+    "description": "Silicone cirúrgico moldável com estojo protetor. Várias opções de cor.",
+    "options": [
+      {
+        "art": "ST-201",
+        "name": "Azul",
+        "colors": [
+          "#1d3fbf"
+        ],
+        "coords": [
+          5,
+          10,
+          32,
+          32
+        ]
+      },
+      {
+        "art": "ST-202",
+        "name": "Rosa",
+        "colors": [
+          "#f4a3c0"
+        ],
+        "coords": [
+          36,
+          10,
+          64,
+          32
+        ]
+      },
+      {
+        "art": "ST-203",
+        "name": "Fumê / Preto",
+        "colors": [
+          "#333"
+        ],
+        "coords": [
+          68,
+          10,
+          95,
+          32
+        ]
+      },
+      {
+        "art": "ST-204",
+        "name": "Verde",
+        "colors": [
+          "#2e8b57"
+        ],
+        "coords": [
+          5,
+          38,
+          35,
+          60
+        ]
+      },
+      {
+        "art": "ST-205",
+        "name": "Transparente",
+        "colors": [
+          "#eee"
+        ],
+        "coords": [
+          65,
+          38,
+          95,
+          60
+        ]
+      },
+      {
+        "art": "ST-206",
+        "name": "Azul / Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          5,
+          65,
+          32,
+          90
+        ]
+      },
+      {
+        "art": "ST-207",
+        "name": "Amarelo / Preto",
+        "colors": [
+          "#f2c200",
+          "#111"
+        ],
+        "coords": [
+          36,
+          65,
+          64,
+          90
+        ]
+      },
+      {
+        "art": "ST-208",
+        "name": "Vermelho / Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          68,
+          65,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "name": "Shorts Muay Thai & Boxe A",
+    "category": "Shorts de Boxe",
+    "price": 55.0,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "description": "Cetim brilhante com abertura lateral que garante total liberdade nos chutes.",
+    "options": [
+      {
+        "art": "ST-104",
+        "name": "Camuflado Dourado",
+        "colors": [
+          "#f2c200",
+          "#333"
+        ],
+        "coords": [
+          5,
+          10,
+          50,
+          40
+        ]
+      },
+      {
+        "art": "ST-106",
+        "name": "Geométrico Cinza",
+        "colors": [
+          "#555",
+          "#fff"
+        ],
+        "coords": [
+          50,
+          30,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-105",
+        "name": "Azul Flame",
+        "colors": [
+          "#1d3fbf",
+          "#d71920"
+        ],
+        "coords": [
+          5,
+          60,
+          50,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "name": "Shorts Muay Thai & Boxe B",
+    "category": "Shorts de Boxe",
+    "price": 55.0,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "description": "Estampas camufladas em vermelho e padronagens orientais exclusivas.",
+    "options": [
+      {
+        "art": "ST-101",
+        "name": "Camuflado Vermelho",
+        "colors": [
+          "#d71920",
+          "#333"
+        ],
+        "coords": [
+          5,
+          10,
+          50,
+          40
+        ]
+      },
+      {
+        "art": "ST-103",
+        "name": "Bandana Preto",
+        "colors": [
+          "#111",
+          "#fff"
+        ],
+        "coords": [
+          50,
+          30,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-102",
+        "name": "Cinza e Preto",
+        "colors": [
+          "#555",
+          "#111"
+        ],
+        "coords": [
+          5,
+          60,
+          50,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "name": "Caneleira Modelo Simples A",
+    "category": "Caneleira",
+    "price": 155.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "description": "Proteção anatômica de canela e peito do pé com fechamento em velcro duplo.",
+    "options": [
+      {
+        "art": "ST-1101",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          8,
+          10,
+          48,
+          45
+        ]
+      },
+      {
+        "art": "ST-1102",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          55,
+          30,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1103",
+        "name": "Branco e Vermelho",
+        "colors": [
+          "#fff",
+          "#d71920"
+        ],
+        "coords": [
+          8,
+          55,
+          48,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "name": "Caneleira Modelo Simples B",
+    "category": "Caneleira",
+    "price": 155.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "description": "Opções Preta e Rosa da caneleira simples South Team.",
+    "options": [
+      {
+        "art": "ST-1104",
+        "name": "Preta",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          50,
+          45
+        ]
+      },
+      {
+        "art": "ST-1105",
+        "name": "Rosa",
+        "colors": [
+          "#f4a3c0"
+        ],
+        "coords": [
+          48,
+          50,
+          92,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "name": "Caneleira Embossed A",
+    "category": "Caneleira",
+    "price": 170.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "description": "Logotipo e grafismos em alto relevo termoformado (embossed). Modelo premium.",
+    "options": [
+      {
+        "art": "ST-1105",
+        "name": "Preto e Branco",
+        "colors": [
+          "#111",
+          "#fff"
+        ],
+        "coords": [
+          8,
+          10,
+          48,
+          45
+        ]
+      },
+      {
+        "art": "ST-1106",
+        "name": "Vermelho e Branco",
+        "colors": [
+          "#d71920",
+          "#fff"
+        ],
+        "coords": [
+          55,
+          30,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1107",
+        "name": "Azul e Dourado",
+        "colors": [
+          "#1d3fbf",
+          "#c9a24a"
+        ],
+        "coords": [
+          8,
+          55,
+          48,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "name": "Caneleira Embossed B",
+    "category": "Caneleira",
+    "price": 170.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "description": "Edições Branco/Dourado e Rosa/Branco da linha Embossed.",
+    "options": [
+      {
+        "art": "ST-1108",
+        "name": "Branco e Dourado",
+        "colors": [
+          "#fff",
+          "#c9a24a"
+        ],
+        "coords": [
+          10,
+          10,
+          50,
+          45
+        ]
+      },
+      {
+        "art": "ST-1109",
+        "name": "Rosa e Branco",
+        "colors": [
+          "#f4a3c0",
+          "#fff"
+        ],
+        "coords": [
+          50,
+          55,
+          92,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "name": "Protetor de Tórax",
+    "category": "Protetor de Tórax",
+    "price": 170.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "description": "Colete protetor anatômico com amarração cruzada nas costas e absorção multicamada.",
+    "options": [
+      {
+        "art": "ST-2101",
+        "name": "Vermelho e Azul",
+        "colors": [
+          "#d71920",
+          "#1d3fbf"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "name": "Aparador de Chute (Par)",
+    "category": "Aparador de Chute",
+    "price": 299.0,
+    "sizes": [
+      "Par"
+    ],
+    "description": "Thai pads curvados profissionais com alças em velcro reforçado. Vendido em par.",
+    "options": [
+      {
+        "art": "ST-1201",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1202",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          52,
+          10,
+          95,
+          40
+        ]
+      },
+      {
+        "art": "ST-1203",
+        "name": "Branco e Preto",
+        "colors": [
+          "#fff",
+          "#111"
+        ],
+        "coords": [
+          6,
+          60,
+          48,
+          90
+        ]
+      },
+      {
+        "art": "ST-1204",
+        "name": "Dourado e Preto",
+        "colors": [
+          "#c9a24a",
+          "#111"
+        ],
+        "coords": [
+          52,
+          60,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "name": "Manopla Governadora",
+    "category": "Manopla Governadora",
+    "price": 150.0,
+    "sizes": [
+      "Unidade"
+    ],
+    "description": "Alvo circular anatômico com empunhaduras laterais para socos e chutes potentes.",
+    "options": [
+      {
+        "art": "ST-1301",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1302",
+        "name": "Vermelha e Preta",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          52,
+          10,
+          95,
+          40
+        ]
+      },
+      {
+        "art": "ST-1303",
+        "name": "Branca e Dourada",
+        "colors": [
+          "#fff",
+          "#c9a24a"
+        ],
+        "coords": [
+          6,
+          60,
+          48,
+          90
+        ]
+      },
+      {
+        "art": "ST-1304",
+        "name": "Dourada e Preta",
+        "colors": [
+          "#c9a24a",
+          "#111"
+        ],
+        "coords": [
+          52,
+          60,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 30,
+    "name": "Escudão de Chute",
+    "category": "Escudo de Chute",
+    "price": 240.0,
+    "sizes": [
+      "Unidade"
+    ],
+    "description": "Escudo retangular para chutes pesados com alça superior e passadores duplos traseiros.",
+    "options": [
+      {
+        "art": "ST-1401",
+        "name": "Preto e Azul",
+        "colors": [
+          "#111",
+          "#1d3fbf"
+        ],
+        "coords": [
+          6,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1402",
+        "name": "Preto e Vermelho",
+        "colors": [
+          "#111",
+          "#d71920"
+        ],
+        "coords": [
+          52,
+          10,
+          95,
+          40
+        ]
+      },
+      {
+        "art": "ST-1403",
+        "name": "Preto e Branco",
+        "colors": [
+          "#111",
+          "#fff"
+        ],
+        "coords": [
+          6,
+          60,
+          48,
+          90
+        ]
+      },
+      {
+        "art": "ST-1404",
+        "name": "Preto e Dourado",
+        "colors": [
+          "#111",
+          "#c9a24a"
+        ],
+        "coords": [
+          52,
+          60,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "name": "Protetor de Cabeça",
+    "category": "Protetor de Cabeça",
+    "price": 130.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "description": "Capacete com proteção de maçãs do rosto, queixo e regulagem traseira com velcro.",
+    "options": [
+      {
+        "art": "ST-1501",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          6,
+          10,
+          48,
+          40
+        ]
+      },
+      {
+        "art": "ST-1502",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          52,
+          10,
+          95,
+          40
+        ]
+      },
+      {
+        "art": "ST-1503",
+        "name": "Preto e Vermelho",
+        "colors": [
+          "#111",
+          "#d71920"
+        ],
+        "coords": [
+          6,
+          60,
+          48,
+          90
+        ]
+      },
+      {
+        "art": "ST-1504",
+        "name": "Azul e Branco",
+        "colors": [
+          "#1d3fbf",
+          "#fff"
+        ],
+        "coords": [
+          52,
+          60,
+          95,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "name": "Manopla de Soco (Par)",
+    "category": "Manopla",
+    "price": 110.0,
+    "sizes": [
+      "Par"
+    ],
+    "description": "Manopla anatômica tipo concha para treino de velocidade e combinações de boxe.",
+    "options": [
+      {
+        "art": "ST-1601",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          52,
+          45
+        ]
+      },
+      {
+        "art": "ST-1602",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          45,
+          55,
+          90,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "name": "Luvas de Goleiro Simples",
+    "category": "Luvas de Goleiro",
+    "price": 51.9,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "description": "Palma em látex com dorso respirável e cinta elástica de fechamento firme.",
+    "options": [
+      {
+        "art": "ST-1701",
+        "name": "Azul e Preto",
+        "colors": [
+          "#1d3fbf",
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          52,
+          45
+        ]
+      },
+      {
+        "art": "ST-1702",
+        "name": "Verde Flúor e Preto",
+        "colors": [
+          "#76ff03",
+          "#111"
+        ],
+        "coords": [
+          50,
+          35,
+          95,
+          65
+        ]
+      },
+      {
+        "art": "ST-1703",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          10,
+          60,
+          52,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "name": "Luvas de Goleiro Pro",
+    "category": "Luvas de Goleiro",
+    "price": 54.9,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "description": "Modelo com reforço estrutural e látex com maior aderência para campos society e grama.",
+    "options": [
+      {
+        "art": "ST-1704",
+        "name": "Verde Flúor e Preto",
+        "colors": [
+          "#76ff03",
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          52,
+          45
+        ]
+      },
+      {
+        "art": "ST-1705",
+        "name": "Vermelho e Preto",
+        "colors": [
+          "#d71920",
+          "#111"
+        ],
+        "coords": [
+          45,
+          50,
+          92,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 35,
+    "name": "Luvas de Goleiro ST-Force",
+    "category": "Luvas de Goleiro",
+    "price": 59.9,
+    "sizes": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "description": "Linha premium Blackout com corte anatômico e duplo ajuste de punho.",
+    "options": [
+      {
+        "art": "ST-1710",
+        "name": "Blackout Total",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "name": "Luvas de Goleiro Infantil",
+    "category": "Luvas de Goleiro",
+    "price": 38.0,
+    "sizes": [
+      "5",
+      "6",
+      "7"
+    ],
+    "description": "Versão infanto-juvenil com palma macia e dorso emborrachado para proteção dos dedos.",
+    "options": [
+      {
+        "art": "ST-1711",
+        "name": "Laranja e Azul",
+        "colors": [
+          "#ff6f00",
+          "#1d3fbf"
+        ],
+        "coords": [
+          10,
+          10,
+          55,
+          45
+        ]
+      },
+      {
+        "art": "ST-1712",
+        "name": "Vermelho e Azul",
+        "colors": [
+          "#d71920",
+          "#1d3fbf"
+        ],
+        "coords": [
+          10,
+          55,
+          55,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "name": "Bandagem Elástica",
+    "category": "Bandagem",
+    "price": 23.0,
+    "sizes": [
+      "3m",
+      "5m"
+    ],
+    "prices": {
+      "3m": 23.0,
+      "5m": 28.0
+    },
+    "description": "Bandagem em algodão com elastano e fecho em velcro para proteção dos punhos e nós dos dedos.",
+    "options": [
+      {
+        "art": "ST-1801",
+        "name": "Bandagem 5 metros - R$ 28,00",
+        "colors": [
+          "#111",
+          "#d71920",
+          "#1d3fbf"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          50
+        ]
+      },
+      {
+        "art": "ST-1802",
+        "name": "Bandagem 3 metros - R$ 23,00",
+        "colors": [
+          "#111"
+        ],
+        "coords": [
+          10,
+          55,
+          90,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "page": 38,
+    "name": "Faixa do Kimono",
+    "category": "Faixa do Kimono",
+    "price": 40.0,
+    "sizes": [
+      "M1",
+      "M2",
+      "M3",
+      "A1",
+      "A2",
+      "A3",
+      "A4"
+    ],
+    "description": "Faixas com costuras paralelas reforçadas para Jiu-Jitsu infantil e adulto em todas as graduações.",
+    "options": [
+      {
+        "art": "ST-2201",
+        "name": "Todas as Cores (Graduações)",
+        "colors": [
+          "#fff",
+          "#f2c200",
+          "#ff6f00",
+          "#2e8b57",
+          "#1d3fbf",
+          "#8a2be2",
+          "#8b4513",
+          "#111"
+        ],
+        "coords": [
+          10,
+          10,
+          90,
+          85
+        ]
+      }
+    ]
+  }
+]
